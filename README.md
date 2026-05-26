@@ -5,6 +5,7 @@ Backend Software Engineer with 5+ years of experience building scalable, secure,
 Bangalore, India  
 Email: rawatarun1592@gmail.com  
 LinkedIn: https://www.linkedin.com/in/arun-pratap-rawat-74987019b/
+
 GitHub: https://www.github.com/rawatarun1592
 
 ---
