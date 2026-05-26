@@ -11,7 +11,7 @@ GitHub: https://www.github.com/rawatarun1592
 
 ## Professional Experience
 
-### Software Developer Engineer II | Sigmoid  
+### Software Development Engineer II | Sigmoid  
 **Apr 2024 – Present**
 
 - Built high-throughput event-driven microservices using Java, Spring Boot, Kafka, Redis, and PostgreSQL.
@@ -21,7 +21,7 @@ GitHub: https://www.github.com/rawatarun1592
 - Worked on distributed systems, concurrency, fault tolerance, and high-availability architectures.
 - Improved engineering efficiency through CI/CD automation and deployment optimization.
 
-### Software Developer | Karkinos Healthcare  
+### Software Development Engineer | Karkinos Healthcare  
 **May 2021 – Mar 2024**
 
 - Developed scalable backend services supporting healthcare platforms across 100+ hospitals.
@@ -35,7 +35,7 @@ GitHub: https://www.github.com/rawatarun1592
 ## Technical Expertise
 
 **Languages**  
-Java 8 / 11 / 17, JavaScript, C, C++
+Java 8 / 11 / 17, Node.js, C, C++
 
 **Backend & Frameworks**  
 Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs
