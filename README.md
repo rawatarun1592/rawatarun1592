@@ -11,7 +11,7 @@ GitHub: https://www.github.com/rawatarun1592
 
 ## Professional Experience
 
-### Software Developer | Sigmoid  
+### Software Developer Engineer II | Sigmoid  
 **Apr 2024 – Present**
 
 - Built high-throughput event-driven microservices using Java, Spring Boot, Kafka, Redis, and PostgreSQL.
